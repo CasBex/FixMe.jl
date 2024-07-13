@@ -1,5 +1,4 @@
 # FixMe.jl – A Beginner Friendly Platform for Making Your Own Package
-[![Stable Documentation](https://img.shields.io/badge/docs-stable-blue.svg)](https://CasBex.github.io/FixMe.jl/stable)
 [![In development documentation](https://img.shields.io/badge/docs-dev-blue.svg)](https://CasBex.github.io/FixMe.jl/dev)
 [![Build Status](https://github.com/CasBex/FixMe.jl/workflows/Test/badge.svg)](https://github.com/CasBex/FixMe.jl/actions)
 [![Test workflow status](https://github.com/CasBex/FixMe.jl/actions/workflows/Test.yml/badge.svg?branch=main)](https://github.com/CasBex/FixMe.jl/actions/workflows/Test.yml?query=branch%3Amain)
