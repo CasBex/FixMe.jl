@@ -1,5 +1,11 @@
 # FixMe.jl – A Beginner Friendly Platform for Making Your Own Package
-[![Build Status](https://github.com/CasBex/FixMe.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/CasBex/FixMe.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Stable Documentation](https://img.shields.io/badge/docs-stable-blue.svg)](https://CasBex.github.io/FixMe.jl/stable)
+[![In development documentation](https://img.shields.io/badge/docs-dev-blue.svg)](https://CasBex.github.io/FixMe.jl/dev)
+[![Build Status](https://github.com/CasBex/FixMe.jl/workflows/Test/badge.svg)](https://github.com/CasBex/FixMe.jl/actions)
+[![Test workflow status](https://github.com/CasBex/FixMe.jl/actions/workflows/Test.yml/badge.svg?branch=main)](https://github.com/CasBex/FixMe.jl/actions/workflows/Test.yml?query=branch%3Amain)
+[![Lint workflow Status](https://github.com/CasBex/FixMe.jl/actions/workflows/Lint.yml/badge.svg?branch=main)](https://github.com/CasBex/FixMe.jl/actions/workflows/Lint.yml?query=branch%3Amain)
+[![Docs workflow Status](https://github.com/CasBex/FixMe.jl/actions/workflows/Docs.yml/badge.svg?branch=main)](https://github.com/CasBex/FixMe.jl/actions/workflows/Docs.yml?query=branch%3Amain)
+[![Coverage](https://codecov.io/gh/CasBex/FixMe.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/CasBex/FixMe.jl)
 
 FixMe.jl is a package for aspiring Julia package developers/contributors to learn about the development process.
 We provide a low stakes, low barrier-to-entry environment where you can learn the ins and outs of how to file issues, merge bugfixes/features to your favorite package, and how to get started developing your own packages.
