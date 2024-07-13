@@ -7,7 +7,7 @@ Pair up with a mentor and get started on the assignments below.
 
 The code in this package has various issues: it sometimes returns incorrect results or errors, some functions are very inefficient, documentation is poor... The assignments will help you get started fixing them and merging your fixes through the proper channels.
 
-**this package is not intended for productive use!**
+**This package is not intended for productive use!**
 
 ## For Mentors
 
