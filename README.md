@@ -3,9 +3,9 @@
 
 FixMe.jl is a package for aspiring Julia package developers/contributors to learn about the development process.
 We provide a low stakes, low barrier-to-entry environment where you can learn the ins and outs of how to file issues, merge bugfixes/features to your favorite package, and how to get started developing your own packages.
-Pair up with a mentor and get started on the assignments below.
+Pair up with a mentor and get started on the [assignments](#assignments).
 
-The code in this package has various issues: it sometimes returns incorrect results or errors, some functions are very inefficient, documentation is poor... The assignments will help you get started fixing them and merging your fixes through the proper channels.
+The code in this package has various issues: it sometimes returns incorrect results or errors, some functions are very inefficient, documentation is poor... The [assignments](#assignments) will help you get started fixing them and merging your fixes through the proper channels.
 
 **This package is not intended for use in production!**
 
