@@ -8,7 +8,3 @@
 [![Docs workflow Status](https://github.com/CasBex/FixMe.jl/actions/workflows/Docs.yml/badge.svg?branch=main)](https://github.com/CasBex/FixMe.jl/actions/workflows/Docs.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/CasBex/FixMe.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/CasBex/FixMe.jl)
 [![DOI](https://zenodo.org/badge/DOI/FIXME)](https://doi.org/FIXME)
-
-## How to Cite
-
-If you use FixMe.jl in your work, please cite using the reference given in [CITATION.cff](https://github.com/CasBex/FixMe.jl/blob/main/CITATION.cff).
