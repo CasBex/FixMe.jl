@@ -26,7 +26,8 @@ You don't need to worry about your issue/pull-request hurting the feelings of th
 This is a valuable opportunity to learn how to avoid all of this in practice though.
 
 To get you started, some helpful resources are
-- Git for beginners **TODO add link** (I'm open to suggestions)
+- [What is git and how to install it](https://github.blog/2024-05-27-what-is-git-our-beginners-guide-to-version-control/)
+- [Interactive git tutorials](https://learngitbranching.js.org/). The first three tutorials will teach you most you need to know to get started with Julia development.
 - [How to make your first pull-request](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
 
 ## Assignments
